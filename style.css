@@ -443,12 +443,12 @@ footer {
     color: var(--white-color);
     padding: 60px 20px;
 }
-footer p {
+.footer p {
     text-align: center;
 
 }
 
-footer span {
+.footer span {
     color: skyblue;
     
 }
