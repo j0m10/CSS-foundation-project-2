@@ -443,6 +443,15 @@ footer {
     color: var(--white-color);
     padding: 60px 20px;
 }
+footer p {
+    text-align: center;
+
+}
+
+footer span {
+    color: skyblue;
+    
+}
 
 .footer_section {
     display: flex;
